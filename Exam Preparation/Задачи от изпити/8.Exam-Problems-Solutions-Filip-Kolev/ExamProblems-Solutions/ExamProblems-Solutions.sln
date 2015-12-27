@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2014-11-08_BitBuilder", "2014-11-08_BitBuilder\2014-11-08_BitBuilder.csproj", "{F2E51563-823D-4623-AEEC-80375C36A5FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2014-04-14-Evening_MagicCarNumbers", "2014-04-14-Evening_MagicCarNumbers\2014-04-14-Evening_MagicCarNumbers.csproj", "{96538ECD-67CB-4D07-A989-C0D564788C15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2E51563-823D-4623-AEEC-80375C36A5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E51563-823D-4623-AEEC-80375C36A5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E51563-823D-4623-AEEC-80375C36A5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E51563-823D-4623-AEEC-80375C36A5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96538ECD-67CB-4D07-A989-C0D564788C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96538ECD-67CB-4D07-A989-C0D564788C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96538ECD-67CB-4D07-A989-C0D564788C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96538ECD-67CB-4D07-A989-C0D564788C15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
